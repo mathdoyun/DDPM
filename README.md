@@ -6,6 +6,7 @@ DDPM (Denoising Diffusion Probabilistic Model)은 생성AI 분야에 큰 혁명�
 
 <img src="https://github.com/mathdoyun/DDPM/assets/135238974/c813fe7d-114d-405c-a054-6872aa936936" height="75%" width="75%"/>
 
+
 논문에 수식도 많고 내용이 상당히 복잡했지만, 직접 코드를 작성해보며 그 흐름을 파악할 수 있었다.
 
 > 출처: https://www.youtube.com/watch?v=svSQhYGKk0Q
